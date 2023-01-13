@@ -385,7 +385,7 @@ function App() {
                       </p>
                     </div>
                     <div>
-                      <p style={{ fontSize: "11px", margin: 0 }}>10%</p>
+                      <p style={{ fontSize: "11px", margin: 0 }}>40%</p>
                     </div>
                   </div>
                   <div
@@ -394,7 +394,7 @@ function App() {
                       marginLeft: "10%",
                     }}
                   >
-                    <LinearProgress variant="determinate" value={50} />
+                    <LinearProgress variant="determinate" value={40} />
                   </div>
                 </div>
                 <div
@@ -426,7 +426,7 @@ function App() {
                       </p>
                     </div>
                     <div>
-                      <p style={{ fontSize: "11px", margin: 0 }}>$9542.56</p>
+                      <p style={{ fontSize: "11px", margin: 0 }}>$2805.58</p>
                     </div>
                   </div>
                   <div
@@ -456,7 +456,7 @@ function App() {
                       marginLeft: "10%",
                     }}
                   >
-                    <LinearProgress variant="determinate" value={50} />
+                    <LinearProgress variant="determinate" value={10} />
                   </div>
                 </div>
                 <div
@@ -676,7 +676,7 @@ function App() {
                         </div>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>$44.9</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>$32.2</p>
                       </div>
                     </div>
                     <div
@@ -718,7 +718,7 @@ function App() {
                         </div>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>$6736.98</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>$4830.21</p>
                       </div>
                     </div>
                   </div>
@@ -751,7 +751,7 @@ function App() {
                         </p>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>$9542.56</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>$4121.21</p>
                       </div>
                     </div>
                     <div
@@ -772,7 +772,7 @@ function App() {
                         </p>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>10%</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>20%</p>
                       </div>
                     </div>
                     <div
@@ -781,7 +781,7 @@ function App() {
                         marginLeft: "10%",
                       }}
                     >
-                      <LinearProgress variant="determinate" value={50} />
+                      <LinearProgress variant="determinate" value={20} />
                     </div>
                   </div>
                   <div
@@ -813,7 +813,7 @@ function App() {
                         </p>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>$9542.56</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>$709</p>
                       </div>
                     </div>
                     <div
@@ -834,7 +834,7 @@ function App() {
                         </p>
                       </div>
                       <div>
-                        <p style={{ fontSize: "11px", margin: 0 }}>10%</p>
+                        <p style={{ fontSize: "11px", margin: 0 }}>15%</p>
                       </div>
                     </div>
                     <div
@@ -843,7 +843,7 @@ function App() {
                         marginLeft: "10%",
                       }}
                     >
-                      <LinearProgress variant="determinate" value={50} />
+                      <LinearProgress variant="determinate" value={15} />
                     </div>
                   </div>
                   <div
